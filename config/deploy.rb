@@ -1,5 +1,5 @@
 # config valid for current version and patch releases of Capistrano
-lock "~> 3.17.0"
+lock "~> 3.10"
 
 set :application, "task_app"    # 2
  set :repo_url, "https://github.com/ryotahaga0723/aws_unic.git"    # 3
